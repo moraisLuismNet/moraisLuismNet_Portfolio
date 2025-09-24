@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "Luis Miguel Morais",
+    "label": "Full Stack Developer",
+    "image": "/foto.jpg",
+    "email": "morais.luism@gmail.com",
+    "phone": "650 84 12 01",
+    "GitHub": "https://github.com/moraisLuismNet",
+    "LinkedIn": "linkedin.com/in/luis-miguel-m-88a238257",
+    "url": "",
+    "summary": "Actualmente estoy en desempleo. Mi objetivo a día de hoy es encontrar la oportunidad de seguir formándome y desarrollarme en el sector de las nuevas tecnologías.",
+    "location": {
+      "city": "Gernika-Lumo",
+      "region": "Bizkaia"
+    }
+  },
+  "work": [
+    {
+      "summary": "Trabajo en la construcción, operario cadena de montaje en Rinder Industrial y Magnéticos Bedia, mozo de almacén y preparación de pedidos y expedición en DHL, CBL- CLN, DFG, AMIG, ALKAR, Cantábrico Distribución (1994-2022)"
+    },
+    {
+      "summary": "Prácticas Administrando Redes en CIFP Elorrieta Errekamari LHII (octubre 2020-febrero 2021)"
+    },
+    {
+      "summary": "Programador Java Junior en Bilbomática (Julio-Octubre 2022)"
+    },{
+      "summary": "Programador .NET Junior en Innotu Projects (Octubre 2024-Febrero 2025)"
+    }
+  ],
+  "education": [
+    {
+      "summary": "BACHILLER SUPERIOR y C.O.U."
+    },
+    {
+      "summary": "FORMACIÓN PROFESIONAL DE SEGUNDO GRADO / Rama Administrativa y Comercial"
+    },
+    {
+      "summary": "ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED (Grado Superior Formación Profesional)"
+    },
+    {
+      "summary": "DESARROLLO DE APLICACIONES WEB (Grado Superior Formación Profesional)"
+    },
+    {
+      "summary": "Certificado de Profesionalidad de Desarrollo de Aplicaciones con Tecnologías Web (.NET y Angular)"
+    },
+    {
+      "summary": "Cursos y otros conocimientos: Operaciones Auxiliares de Montaje y Mantenimiento de Sistemas Microinformáticos, Técnico Sistemas Microinformáticos, Administrador de Sistemas Operativos De Redes Locales, Certificado Profesional De Soporte De Tecnologías De La Información De Google, Certificado Profesional De Automatización De TI De Google Con Python, Desarrollo en Java con framework Spring, C (42 Urduliz), Full Stack Development with JavaScript, Python, React (Botegga), CCNAv7."
+    }
+  ]
+}
