@@ -2,7 +2,7 @@
   "basics": {
     "name": "Luis Miguel Morais",
     "label": "Full Stack Developer",
-    "image": "/moraisLuismNet_Portfolio/foto.jpg",
+    "image": "/foto.jpg",
     "email": "morais.luism@gmail.com",
     "phone": "650 84 12 01",
     "GitHub": "https://github.com/moraisLuismNet",
@@ -23,7 +23,8 @@
     },
     {
       "summary": "Programador Java Junior en Bilbomática (Julio-Octubre 2022)"
-    },{
+    },
+    {
       "summary": "Programador .NET Junior en Innotu Projects (Octubre 2024-Febrero 2025)"
     }
   ],

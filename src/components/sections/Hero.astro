@@ -2,6 +2,8 @@
 import { basics } from "cv.json"
 const { name, label, image, location, phone, email, GitHub, LinkedIn} = basics
 const { city, region} = location
+
+const imagePath = `${import.meta.env.BASE_URL}${image}`.replace(/\/+/g, '/')
 ---
 
 <section>
@@ -118,7 +120,7 @@ const { city, region} = location
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src={imagePath} alt={name} />
     </figure>
   </div>
 </section>
