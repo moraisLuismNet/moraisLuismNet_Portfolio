@@ -30,22 +30,25 @@
   ],
   "education": [
     {
-      "summary": "BACHILLER SUPERIOR y C.O.U."
+      "summary": "Bachiller Superior y C.O.U. (1989)"
     },
     {
-      "summary": "FORMACIÓN PROFESIONAL DE SEGUNDO GRADO / Rama Administrativa y Comercial"
+      "summary": "Formación Profesional De Segundo Grado/Rama Administrativa y Comercial (1992)"
     },
     {
-      "summary": "ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED (Grado Superior Formación Profesional)"
+      "summary": "Certificado De Profesionalidad De Operaciones Auxiliares De Montaje Y Mantenimineto De Sistemas Microinformáticos (2015)"
     },
     {
-      "summary": "DESARROLLO DE APLICACIONES WEB (Grado Superior Formación Profesional)"
+      "summary": "Técnico Superior en Administración de Sistemas Informáticos en Red (2021)"
     },
     {
-      "summary": "Certificado de Profesionalidad de Desarrollo de Aplicaciones con Tecnologías Web (.NET y Angular)"
+      "summary": "Certificado De Profesionalidad De Desarrollo De Aplicaciones Con Tecnologías Web (.NET y Angular) (2024)"
+    },
+		{
+      "summary": "Técnico Superior en Desarrollo de Aplicaciones Web (2026)"
     },
     {
-      "summary": "Cursos y otros conocimientos: Operaciones Auxiliares de Montaje y Mantenimiento de Sistemas Microinformáticos, Técnico Sistemas Microinformáticos, Administrador de Sistemas Operativos De Redes Locales, Certificado Profesional De Soporte De Tecnologías De La Información De Google, Certificado Profesional De Automatización De TI De Google Con Python, Desarrollo en Java con framework Spring, C (42 Urduliz), Full Stack Development with JavaScript, Python, React (Botegga), CCNAv7."
+      "summary": "Cursos y otros conocimientos: Cursos y otros conocimientos: Actividades Auxiliares de Almacen (2015), Soporte de Tecnologías de la Información de Google (2021), Google IT Automation with Python (2021), Linux Essentials NDG (2021), Desarrollo en Java con framework Spring (2022), Certificate of Competence in Full Stack Development 2023JavaScript, Python and React Bottega (2023), Análisis de datos con Python (Data Analysis with Python) (2023), Cálculo Científico con Python (Scientific Computing with Python) (2023), CCNAv7: Introducción a Redes, Conceptos Básicos de Conmutación, Enrutamiento y Conexiones Inalámbricas, Redes Empresariales, Seguridad y Automatización (2023), C (42 Urduliz) (2024), Algoritmos JavaScript y Estructuras de Datos (JavaScript Algorithms and Data Sctructures) (2025)"
     }
   ]
 }
